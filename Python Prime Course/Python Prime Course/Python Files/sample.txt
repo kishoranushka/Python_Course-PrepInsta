@@ -1,0 +1,3 @@
+This is sample text file. 
+We have generated this file to demosntrate how to read files in python.
+My name is Rushikesh.
